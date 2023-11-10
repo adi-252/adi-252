@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Jumani</h1>
-<h3 align="center">Lets connect</h3>
+<h1 align="left">Hi 👋, I'm Aditya Jumani</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
