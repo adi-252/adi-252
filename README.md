@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Jumani</h1>
-<h3 align="center">Software Engineering</h3>
+<h3 align="center">Turning caffeine into code since 2022</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
