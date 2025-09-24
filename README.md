@@ -1,9 +1,41 @@
-<h1 align="left">Hi 👋, I'm Aditya Jumani</h1>
+# Hi, I’m Aditya Jumani 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adityajumani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajumani" height="30" width="40" /></a>
-</p>
+🎓 CS + Business student at the University of Southern California (graduating Dec 2025).  
+💡 I love building products that combine **AI/ML, computer vision, IoT, and cloud** to turn raw data into meaningful insights.  
+📍 Currently exploring **end-to-end product development** — from embedded systems to scalable cloud deployments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Featured Projects
+
+### [Baseline AI](https://github.com/adi-252/BaseLineAI)
+🏸 Tennis analytics platform powered by **PyTorch/YOLO**, **OpenCV**, and **Flask**.  
+- Achieved **93% accuracy** in detecting players, ball, and 14 court keypoints.  
+- Provided analytics like **shot & player speed**, **placement distributions**, and **probability density charts**, reducing manual video analysis by **80%**.  
+- Deployed on **AWS Elastic Beanstalk**, load-tested to **20+ concurrent uploads** at **~300 ms per-frame** latency.  
+
+### [Repsync & Smartwatch](https://youtube.com/shorts/ELF_0G5m1_M?feature=share)  
+💪 IoT + wearable prototypes for real-time workout tracking.  
+- Built a smartwatch MVP in **8 weeks**, accelerating development cycles by **30%**.  
+- Engineered a barbell tracker in **C++** capturing **100+ data points/sec**, synced with iOS and web apps, improving workout monitoring accuracy by **30%**.  
+- [Demo Video](https://youtube.com/shorts/ELF_0G5m1_M?feature=share) | [Prototype PDF](https://drive.google.com/file/d/1QU-X7guz2KztoPUY2Ql-w2-pFlk1Xo2g/view?usp=sharing)
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, C++, Java, JavaScript, SQL, Swift, HTML, CSS  
+**Developer Tools:** Git, GitHub Actions, Docker, Maven, JUnit, Jest, Selenium, XCTest, Gherkin, k6  
+**Frameworks/Libraries:** React, Spring Boot, PyTorch, OpenCV, YOLO, NumPy, scikit-learn, torchvision, Firebase, TestFlight, AWS (EC2, S3, CloudWatch, Elastic Beanstalk)  
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/adityajumani)  
+- [Email](mailto:ajumani@usc.edu)  
+- [GitHub](https://github.com/adi-252)  
+
+---
+
+⭐️ Always open to collaborating on **AI, ML, and IoT projects** — feel free to reach out!
