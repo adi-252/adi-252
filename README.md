@@ -1,41 +1,18 @@
-# Hi, I’m Aditya Jumani 👋
+# 💫 About Me:
+Hi, I’m Aditya Jumani 👋<br><br>🎓 CS + Business student at the University of Southern California (graduating Dec 2025).  <br>💡 I love building products that combine **AI/ML, computer vision, IoT, and cloud** to turn raw data into meaningful insights.  <br>📍 Currently exploring **end-to-end product development** — from embedded systems to scalable cloud deployments.<br><br>
 
-🎓 CS + Business student at the University of Southern California (graduating Dec 2025).  
-💡 I love building products that combine **AI/ML, computer vision, IoT, and cloud** to turn raw data into meaningful insights.  
-📍 Currently exploring **end-to-end product development** — from embedded systems to scalable cloud deployments.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adityajumani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajumani@usc.edu) 
 
-## 🚀 Featured Projects
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adi-252&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adi-252&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adi-252&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### [Baseline AI](https://github.com/adi-252/BaseLineAI)
-🏸 Tennis analytics platform powered by **PyTorch/YOLO**, **OpenCV**, and **Flask**.  
-- Achieved **93% accuracy** in detecting players, ball, and 14 court keypoints.  
-- Provided analytics like **shot & player speed**, **placement distributions**, and **probability density charts**, reducing manual video analysis by **80%**.  
-- Deployed on **AWS Elastic Beanstalk**, load-tested to **20+ concurrent uploads** at **~300 ms per-frame** latency.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adi-252&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### [Repsync & Smartwatch](https://youtube.com/shorts/ELF_0G5m1_M?feature=share)  
-💪 IoT + wearable prototypes for real-time workout tracking.  
-- Built a smartwatch MVP in **8 weeks**, accelerating development cycles by **30%**.  
-- Engineered a barbell tracker in **C++** capturing **100+ data points/sec**, synced with iOS and web apps, improving workout monitoring accuracy by **30%**.  
-- [Demo Video](https://youtube.com/shorts/ELF_0G5m1_M?feature=share) | [Prototype PDF](https://drive.google.com/file/d/1QU-X7guz2KztoPUY2Ql-w2-pFlk1Xo2g/view?usp=sharing)
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** Python, C++, Java, JavaScript, SQL, Swift, HTML, CSS  
-**Developer Tools:** Git, GitHub Actions, Docker, Maven, JUnit, Jest, Selenium, XCTest, Gherkin, k6  
-**Frameworks/Libraries:** React, Spring Boot, PyTorch, OpenCV, YOLO, NumPy, scikit-learn, torchvision, Firebase, TestFlight, AWS (EC2, S3, CloudWatch, Elastic Beanstalk)  
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/adityajumani)  
-- [Email](mailto:ajumani@usc.edu)  
-- [GitHub](https://github.com/adi-252)  
-
----
-
-⭐️ Always open to collaborating on **AI, ML, and IoT projects** — feel free to reach out!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
