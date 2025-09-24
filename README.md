@@ -13,4 +13,9 @@ Hi, I’m Aditya Jumani 👋<br><br>🎓 CS + Business student at the University
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adi-252&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/adityajumani)  
+- [Email](mailto:ajumani@usc.edu)  
+- [GitHub](https://github.com/adi-252)  
+
